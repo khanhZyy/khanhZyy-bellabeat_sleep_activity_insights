@@ -1,5 +1,5 @@
 # DATASET
-Bộ dữ liệu dược thu thập từ Kaggle chứa dữ liệu theo dõi thể dục cá nhân từ các người dùng Fitbit. 
+Bộ dữ liệu dược thu thập từ Kaggle chứa dữ liệu theo dõi thể dục cá nhân từ các người dùng Fitbit.  
 Tập dữ liệu dailyActivity_merged.csv gồm 940 hàng và 15 cột mô tả sức khỏe, thể hiện mức độ vận động, thời gian ở các trạng thái hoạt động khác nhau và năng lượng tiêu hao mỗi ngày.  
 * Id: Mã định danh người dùng 
 * ActivityDate: Ngày ghi nhận hoạt động
